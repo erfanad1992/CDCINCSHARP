@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "syncdbTest", "syncdbTest\syncdbTest.csproj", "{067EB4D2-1264-4272-8555-6103A99CE954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067EB4D2-1264-4272-8555-6103A99CE954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067EB4D2-1264-4272-8555-6103A99CE954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067EB4D2-1264-4272-8555-6103A99CE954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067EB4D2-1264-4272-8555-6103A99CE954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23D43C9A-006C-4308-9E96-B16E8C1793CC}
+	EndGlobalSection
+EndGlobal
