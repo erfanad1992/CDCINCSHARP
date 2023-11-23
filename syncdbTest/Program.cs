@@ -16,7 +16,6 @@ class Program
         {
             tableDependecy.OnChanged += TableDependency_Changed;
             tableDependecy.OnError += TableDependency_OnError;
-
             tableDependecy.Start();
 
             Console.WriteLine("Waiting");
