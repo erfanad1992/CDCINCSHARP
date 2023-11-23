@@ -19,8 +19,10 @@ EXEC sys.sp_cdc_enable_table
 
 STEP_2
 enable broker for a database 
+
 ALTER DATABASE {dbName} SET ENABLE_BROKER WITH ROLLBACK IMMEDIATE
 
 STEP_3
+
 install package SqlTableDependency latest version and System.Data.SqlClient
 
